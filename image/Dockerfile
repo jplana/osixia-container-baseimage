@@ -1,4 +1,4 @@
-# IMAGE: jplana/light-baseimage:1.4.0
+# IMAGE: jplana/light-baseimage:1.4.1
 FROM debian:bookworm-slim
 
 COPY . /container
